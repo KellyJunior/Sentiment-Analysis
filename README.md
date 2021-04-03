@@ -1,9 +1,10 @@
-SENTIMENT ANALYSIS [MACHINE LEARNING PROJECT] - With Dataset <br />
-OBJECTIVES: <br /> The sentiment analysis is a machine learning tool that analyzes texts for polarity (positive, Neutral, Negative)
+*SENTIMENT ANALYSIS [MACHINE LEARNING PROJECT] - With Dataset <br />
+        *OBJECTIVES: <br /> The sentiment analysis is a machine learning tool that analyzes texts for polarity (positive, Neutral, Negative)
 By training machine learning tools with examples of emotions in text, machines automatically learn how to detect sentiment without human input.
 <br />
 * To know more about the applications of a sentiment analysis tool please visit our page: instagram: www.instagram.com/machinelearning.tg
-THE PROJECT STRUCTURE: <br />
+<br />
+* THE PROJECT STRUCTURE: <br />
 Step a- Importing libraries  and  data. (The repo contains the dataset used in this project) <br />
 Step b- Text normalization <br />
 step c- Lemmatization <br />
